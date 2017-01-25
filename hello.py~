@@ -1,3 +1,3 @@
 print("Hello World")
-print("My name is PersonA")
-print("My favorite color is Black")
+print("My name is PersonB")
+print("My favorite color is Red")
